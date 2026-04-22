@@ -34,5 +34,6 @@ This Excel dashboard analyzes Blinkit grocery sales data, providing insights int
 - Sales peaked in 2018
 
 🏁 Conclusion
+
 This Blinkit Sales Dashboard effectively turns raw data into actionable insights by highlighting key trends in sales, outlet performance, and product demand. It enables quick, data-driven decision-making through clear visualizations and interactive filters. Overall, the project showcases strong Excel skills in data cleaning, analysis, and dashboard design.
 
