@@ -4,12 +4,19 @@ This Excel dashboard analyzes Blinkit grocery sales data, providing insights int
 🚀Features
 
 📈 Total Sales Analysis – Displays overall revenue generated
+
 💰 Average Sales – Shows average sales per item
+
 📦 Number of Items – Total products available
+
 ⭐ Average Rating – Customer satisfaction metric
+
 🏪 Outlet Analysis – Based on size, location, and type
+
 🥗 Fat Content Analysis – Comparison of low fat vs regular items
+
 🛒 Item Type Distribution – Sales by category
+
 📊 Interactive Filters – Filter by outlet size, location, and item type
 
 🛠️ Tools & Technologies Used
